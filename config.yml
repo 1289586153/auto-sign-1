@@ -9,17 +9,17 @@ users:
       #username 学号或者工号或身份证号
       username: "350128199711180136"
       #password 密码
-      密码：“cc971118”
-      #address地址，定位信息中国河南省xx市xx区xx路
-      address: 中国福建省福州市平潭县翠园中路
+      password: "cc971118"
+      #address 地址，定位信息  中国河南省xx市xx区xx路
+      address: 福建省福州市平潭县大卫城一路
       #server_key Server 酱的SCKEY
       server_key: SCU140339Tcefb2b164622b3281fd09da7dc9959da5fe9bbd0c336b
       #school 学校全称
       school: 长春师范大学
       #lon 经度 保留六位小数
-      lon: "119.801391"
+      lon: "119.804093"
       #lat 纬度 保留六位小数
-      lat: "25.513757"
+      lat: "25.530452"
       #abnormalReason 反馈信息 无需修改
       abnormalReason:
       #photo 签到照片，不需要可不填，或者直接删除
