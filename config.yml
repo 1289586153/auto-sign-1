@@ -6,19 +6,19 @@ login:
 users:
   #单个用户配置
   - user:
-      #username 学号或者工号或身份证号
+      #username 学号或者工号
       username: "350128199711180136"
       #password 密码
       password: "cc971118"
-      #address 地址，定位信息  中国河南省xx市xx区xx路
+      #address 地址，定位信息
       address: 福建省福州市平潭县翠园北路388号
       #server_key Server 酱的SCKEY
-      server_key:SCU140339Te27378663f921611011539e0ea85be03600172fa3c9ae
+      server_key: SCU140339Te27378663f921611011539e0ea85be03600172fa3c9ae
       #school 学校全称
       school: 长春师范大学
-      #lon 经度 保留六位小数
+      #lon 经度
       lon: "119.803822"
-      #lat 纬度 保留六位小数
+      #lat 纬度
       lat: "8038227501"
       #abnormalReason 反馈信息 无需修改
       abnormalReason:
