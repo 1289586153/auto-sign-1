@@ -7,40 +7,28 @@ users:
   #单个用户配置
   - user:
       #username 学号或者工号
-      username: "350128199711180136"
+      username: "123456789"
       #password 密码
-      password: "cc971118"
+      password: "123456789"
       #address 地址，定位信息
-      address: 福建省福州市平潭县翠园北路388号
+      address: 中国重庆市北碚区文渊路
       #server_key Server 酱的SCKEY
-      server_key: SCU140339Te27378663f921611011539e0ea85be03600172fa3c9ae
+      server_key: xxxxxxxxxxxxx
       #school 学校全称
-      school: 长春师范大学
+      school: 西南大学
       #lon 经度
-      lon: "119.803822"
+      lon: "123.123456"
       #lat 纬度
-      lat: "8038227501"
-      #abnormalReason 反馈信息 无需修改
+      lat: "123.123456"
+      #abnormalReason 反馈信息
       abnormalReason:
       #photo 签到照片，不需要可不填，或者直接删除
-#      photo: default.png
-#多用户配置，将下面的注释去掉即可，如果有表单内容有图片，不建议使用多用户配置
+      photo:
+  #多用户配置，将下面的注释去掉即可，如果有表单内容有图片，不建议使用多用户配置
 #今日校园相关配置
 cpdaily:
-  check: true
   defaults:
+    #附加信息组默认选项配置，没有可留空
     - default:
-        title: 今天你的体温是多少？
-        value: 36.6℃
-    - default:
-        title: 你当前的状态是？
-        value: 正常
-    - default:
-        title: 你当前的身体健康状况?
-        value: 无症状
-    - default:
-        title: 近14天是否接触过新冠肺炎确诊病例/疑似病例/无症状感染者？
-        value: 否
-    - default:
-        title: 是否途径/逗留/身处疫情中高风险地区？
-        value: 否
+        title: 晚间体温范围
+        value: 正常，＜37.2℃
