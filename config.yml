@@ -9,7 +9,7 @@ users:
       #username 学号或者工号
       username: "350128199711180136"
       #password 密码
-      password: "cc971118"
+      password: "cc97111"
       #address 地址，定位信息
       address: 福建省福州市平潭县翠园北路388号
       #server_key Server 酱的SCKEY
