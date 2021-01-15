@@ -11,7 +11,7 @@ users:
       #password 密码
       password: "cc971118"
       #address 地址，定位信息
-      address: 福建省福州市平潭县桂山路
+      address: 中国福建省福州市平潭县桂山路
       #server_key Server 酱的SCKEY
       server_key: SCU140339Te27378663f921611011539e0ea85be03600172fa3c9ae
       #school 学校全称
