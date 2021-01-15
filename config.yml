@@ -13,7 +13,7 @@ users:
       #address 地址，定位信息  中国河南省xx市xx区xx路
       address: 福建省福州市平潭县大卫城一路
       #server_key Server 酱的SCKEY
-      server_key: SCU140339Tcefb2b164622b3281fd09da7dc9959da5fe9bbd0c336b
+      server_key:SCU140339Tcefb2b164622b3281fd09da7dc9959da5fe9bbd0c336b
       #school 学校全称
       school: 长春师范大学
       #lon 经度 保留六位小数
